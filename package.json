@@ -1,0 +1,22 @@
+{
+  "name": "wdi-11-rest-intro-lab",
+  "version": "1.0.0",
+  "description": "## Superheros",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zoesreagan/wdi-11-rest-intro-lab.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zoesreagan/wdi-11-rest-intro-lab/issues"
+  },
+  "homepage": "https://github.com/zoesreagan/wdi-11-rest-intro-lab#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
